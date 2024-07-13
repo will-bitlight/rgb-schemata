@@ -23,8 +23,8 @@ aluvm = "0.11.0-beta.6"
 bp-core = "0.11.0-beta.6"
 # TODO: To test testnet4 upstream and downstream, 
 # git dependencies were used temporarily during development
-rgb-std = { git = "https://github.com/will-bitlight/rgb-std.git", rev = "929c416", features = ["fs"]}
-rgb-interfaces = { git = "https://github.com/will-bitlight/rgb-interfaces.git", branch = "testnet4"}
+rgb-std = { git = "https://github.com/will-bitlight/rgb-std.git", rev = "78a4951", features = ["fs"]}
+rgb-interfaces = { git = "https://github.com/will-bitlight/rgb-interfaces.git", rev = "19526d5"}
 chrono = "0.4.37"
 serde = "1.0"
 serde_json = "1.0"
